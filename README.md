@@ -1,17 +1,17 @@
-#FarkleTracker
+# FarkleTracker
 
-##Farkle Game Summary
-###OBJECTIVE
+## Farkle Game Summary
+### OBJECTIVE
 The objective of the game is to score a minimum of 10,000 points.
 
-###COMPONENTS OF THE GAME
+### COMPONENTS OF THE GAME
 - Six 6-sided dice
 - One or more dice cups(optional)
 
-###NUMBER OF PLAYERS
+### NUMBER OF PLAYERS
 Farkle can be played by 2 or more players, recommended 3-8 players.
 
-##How to Play Farkle
+## How to Play Farkle
 These rules are the most commonly used rules, though there are other variations out there.
 
 One player is chosen to begin and turns move clockwise around the table.
@@ -34,7 +34,7 @@ not been previously set aside for scoring, but all of their points gained thus f
 
 At the end of a player's turn, any points they have scored are written down and the dice are passed to the next player.
 
-##FARKLE SCORING
+## FARKLE SCORING
 - **1**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;100 points
 - **5**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;50 points
 - **Three 1's**&emsp;&emsp;&emsp;&emsp;1,000 points
@@ -56,6 +56,6 @@ one of the following:
 - 500 points for the three 5's
 - 600 points for the 1 and the three 5's
 
-##WINNING FARKLE
+## WINNING FARKLE
 The first player to score a total of 10,000 or more points wins, provided that no other players with a remaining turn
 can exceed that score.
